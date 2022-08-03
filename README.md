@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Cesar Abarca Perez i am a technology enthusiast, currently working as .net developer
-- 👀 I’m interested in software developer, IoT, AI and Electronics
+- 👋 Hi, I’m Cesar Abarca Perez, I am a technology enthusiast, currently working as a .net developer
+- 👀 I’m interested in software development, IoT, AI, and Electronics
 - 🌱 I’m currently learning microservices and cloud computing
-- 💞️ I’m looking to collaborate on any company related to my interests and enthusiastic people with great proyects
+- 💞️ I’m looking to collaborate with any company related to my interests and enthusiastic people with great projects
 - 📫 How to reach me www.linkedin.com/in/ceabarca
 
 <!---
